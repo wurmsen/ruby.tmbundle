@@ -141,6 +141,12 @@
 			<string>meta.class.ruby</string>
 		</dict>
 		<dict>
+			<key>match</key>
+			<string>\s+$</string>
+			<key>name</key>
+			<string>trailing.whitespace.ruby</string>
+		</dict>
+		<dict>
 			<key>captures</key>
 			<dict>
 				<key>1</key>
