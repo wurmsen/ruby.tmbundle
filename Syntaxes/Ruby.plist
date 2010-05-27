@@ -152,6 +152,55 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
+					<string>1.indent.ruby</string>
+				</dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>2.indent.ruby</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>3.indent.ruby</string>
+				</dict>
+				<key>4</key>
+				<dict>
+					<key>name</key>
+					<string>4.indent.ruby</string>
+				</dict>
+				<key>5</key>
+				<dict>
+					<key>name</key>
+					<string>5.indent.ruby</string>
+				</dict>
+				<key>6</key>
+				<dict>
+					<key>name</key>
+					<string>6.indent.ruby</string>
+				</dict>
+				<key>7</key>
+				<dict>
+					<key>name</key>
+					<string>7.indent.ruby</string>
+				</dict>
+				<key>8</key>
+				<dict>
+					<key>name</key>
+					<string>8.indent.ruby</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>^(\s\s)(\s\s)?(\s\s)?(\s\s)?(\s\s)?(\s\s)?(\s\s)?(\s\s)?</string>
+			<key>name</key>
+			<string>indent.ruby</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
 					<string>keyword.control.module.ruby</string>
 				</dict>
 				<key>2</key>
